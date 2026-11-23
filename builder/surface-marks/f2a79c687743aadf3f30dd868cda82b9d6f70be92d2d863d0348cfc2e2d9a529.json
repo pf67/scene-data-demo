@@ -1,0 +1,11 @@
+{
+  "size": [
+    1248,
+    832
+  ],
+  "projectionRegion": "matched",
+  "pairedMask": "06072f1cefe5c2b970c7318555898273ce182394828f43467dda22b6613fe1d1",
+  "materialReferences": [
+    "village-orbit-step-right145"
+  ]
+}

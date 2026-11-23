@@ -1,0 +1,45 @@
+{
+  "source": "village-orbit-step-right162",
+  "reference": "village",
+  "provider": "openai",
+  "model": "gpt-image-2",
+  "sha256": "f6ea802a94b62b79278d67ac42f3773a7db84af743c8685e723b3515b90e28ca",
+  "size": [
+    1248,
+    832
+  ],
+  "rawSize": [
+    1248,
+    832
+  ],
+  "requestedAngle": 162.0,
+  "roofs": [
+    {
+      "building": "house_47",
+      "quad": [
+        [
+          865,
+          286
+        ],
+        [
+          839,
+          307
+        ],
+        [
+          713,
+          291
+        ],
+        [
+          738,
+          272
+        ]
+      ]
+    }
+  ],
+  "walls": [],
+  "registration": {
+    "accepted": true,
+    "actualAngle": 162.7,
+    "checkMedianPx": 9.45
+  }
+}

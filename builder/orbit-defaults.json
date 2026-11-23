@@ -1,0 +1,18 @@
+{
+  "minAngle": 10,
+  "maxAngle": 180,
+  "defaultAngle": 45,
+  "presets": [
+    {"angle": -45, "label": "左前方"}, {"angle": 45, "label": "右前方"},
+    {"angle": -90, "label": "左侧"}, {"angle": 90, "label": "右侧"},
+    {"angle": -135, "label": "左后方"}, {"angle": 135, "label": "右后方"},
+    {"angle": 180, "label": "正后方"}
+  ],
+  "imageApi": {
+    "model": "gpt-image-2", "quality": "high", "qualities": ["low", "medium", "high", "auto"],
+    "guidance": "layout", "guidanceModes": [
+      {"value": "layout", "label": "原图和目标机位结构图"},
+      {"value": "photo", "label": "仅使用原图"}
+    ]
+  }
+}

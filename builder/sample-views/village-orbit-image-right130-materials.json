@@ -1,0 +1,32 @@
+{
+  "source":"village-orbit-image-right130",
+  "sha256":"5f5d78b77cbd2ac5b982ce052464a3eeafc5974efabf2785319a3195743c3177",
+  "reference":"village",
+  "provider":"openai",
+  "model":"gpt-image-2",
+  "requestedAngle":130,
+  "rawSize":[1248,832],
+  "size":[1000,667],
+  "use":"matched-directional-surfaces",
+  "registration":{"accepted":true,"inliers":14,"coveragePercent":5.47,"localSupportPercent":17.23,"actualAngle":129.7,"checkPoints":6,"checkInliers":5,"checkMedianPx":7.21,"checkMaxPx":73.3},
+  "roofs":[
+    {"building":"house_49","quad":[[655,201],[675,223],[527,230],[521,205]]},
+    {"building":"house_48","quad":[[599,165],[609,182],[529,185],[525,168]]},
+    {"building":"house_47","quad":[[728,162],[746,178],[658,181],[642,166]]},
+    {"building":"house_50","quad":[[506,174],[512,193],[440,194],[439,176]]},
+    {"building":"house_26","quad":[[526,98],[530,105],[447,111],[445,103]]},
+    {"building":"house_61","quad":[[698,136],[707,148],[645,152],[631,139]]},
+    {"building":"house_60","quad":[[836,132],[852,142],[788,147],[765,133]]},
+    {"building":"house_59","quad":[[915,210],[956,238],[851,242],[814,212]]}
+  ],
+  "walls":[
+    {"building":"house_49","edge":1,"quad":[[530,232],[669,225],[667,252],[531,269]]},
+    {"building":"house_48","edge":1,"quad":[[533,188],[605,185],[605,201],[533,203]]},
+    {"building":"house_47","edge":1,"quad":[[660,184],[740,180],[738,197],[668,201]]},
+    {"building":"house_50","edge":1,"quad":[[443,196],[506,195],[506,213],[465,216]]},
+    {"building":"house_26","edge":1,"quad":[[450,113],[527,107],[526,123],[450,133]]},
+    {"building":"house_60","edge":1,"quad":[[789,148],[848,145],[846,153],[790,157]]},
+    {"building":"house_59","edge":1,"quad":[[855,244],[949,242],[942,266],[855,278]]},
+    {"building":"house_59","edge":2,"quad":[[818,216],[849,243],[849,275],[819,247]]}
+  ]
+}

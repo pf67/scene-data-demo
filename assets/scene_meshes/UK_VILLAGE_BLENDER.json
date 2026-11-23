@@ -1,0 +1,23 @@
+{
+  "code": "UK_VILLAGE_BLENDER",
+  "label": "英伦村落 · 多视角AI融合重建",
+  "kind": "photo_completed_village",
+  "map_id": "UK_VILLAGE_BLENDER",
+  "building_count": 84,
+  "preserve_scale": true,
+  "source_image": "uk_houses_drone.png",
+  "camera": {
+    "position": [
+      0.0,
+      251.9209,
+      277.8166
+    ],
+    "target": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "fov": 22.1689
+  },
+  "notes": "多视角 AI 融合重建：84 栋闭合建筑 + 90 棵树木 + 3 辆路边车辆 + 4 视角 DA3 融合与 PBR 摄影烘焙。"
+}

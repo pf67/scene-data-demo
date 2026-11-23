@@ -1,0 +1,13 @@
+{
+  "name": "scene-data-demo",
+  "version": "1.7.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "build": "npm --prefix frontend run build",
+    "typecheck": "npm --prefix frontend run typecheck",
+    "test": "node --test tests/server.test.mjs tests/builder.test.mjs"
+  }
+}

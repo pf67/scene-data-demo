@@ -1,0 +1,1645 @@
+{
+  "version": 1,
+  "name": "村庄沿街建筑",
+  "scaleBasis": "estimated",
+  "views": [
+    {
+      "source": "village",
+      "cameraMethod": "ground_controls",
+      "fitPoints": 6,
+      "fitRmsPx": 0.0,
+      "checkPoints": 0,
+      "checkRmsPx": null,
+      "checkRmsM": null
+    }
+  ],
+  "buildings": [
+    {
+      "id": "house_01",
+      "heightM": 7.0,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 103.4929
+    },
+    {
+      "id": "house_02",
+      "heightM": 6.5,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 48.2708
+    },
+    {
+      "id": "house_03",
+      "heightM": 6.0,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 61.6665
+    },
+    {
+      "id": "house_04",
+      "heightM": 3.77,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 67.6638
+    },
+    {
+      "id": "house_05",
+      "heightM": 4.8,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 61.0725
+    },
+    {
+      "id": "house_06",
+      "heightM": 6.2,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 64.8175
+    },
+    {
+      "id": "house_07",
+      "heightM": 3.2,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 31.7316
+    },
+    {
+      "id": "house_08",
+      "heightM": 6.3,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 59.1221
+    },
+    {
+      "id": "house_09",
+      "heightM": 6.2,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 158.3291
+    },
+    {
+      "id": "house_10",
+      "heightM": 6.0,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 70.2023
+    },
+    {
+      "id": "house_11",
+      "heightM": 3.8,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 41.2189
+    },
+    {
+      "id": "house_12",
+      "heightM": 4.2,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 32.5205
+    },
+    {
+      "id": "house_13",
+      "heightM": 3.575,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 95.4212
+    },
+    {
+      "id": "house_14",
+      "heightM": 3.575,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 98.1502
+    },
+    {
+      "id": "house_15",
+      "heightM": 2.86,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 86.0898
+    },
+    {
+      "id": "house_16",
+      "heightM": 3.0,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 15.5352
+    },
+    {
+      "id": "house_17",
+      "heightM": 5.8,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 29.6531
+    },
+    {
+      "id": "house_18",
+      "heightM": 5.0,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 35.8797
+    },
+    {
+      "id": "house_19",
+      "heightM": 3.2,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 23.2468
+    },
+    {
+      "id": "house_20",
+      "heightM": 3.0,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 16.5109
+    },
+    {
+      "id": "house_21",
+      "heightM": 5.3,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 133.5554
+    },
+    {
+      "id": "house_22",
+      "heightM": 5.94,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 143.3322
+    },
+    {
+      "id": "house_23",
+      "heightM": 5.805,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 97.0494
+    },
+    {
+      "id": "house_24",
+      "heightM": 4.019,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 84.8951
+    },
+    {
+      "id": "house_25",
+      "heightM": 7.263,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 80.1636
+    },
+    {
+      "id": "house_26",
+      "heightM": 8.1,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 114.1839
+    },
+    {
+      "id": "house_27",
+      "heightM": 6.753,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 115.9767
+    },
+    {
+      "id": "house_28",
+      "heightM": 6.228,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 136.6131
+    },
+    {
+      "id": "house_29",
+      "heightM": 7.695,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 205.722
+    },
+    {
+      "id": "house_30",
+      "heightM": 5.67,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 61.2002
+    },
+    {
+      "id": "house_31",
+      "heightM": 7.572,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 96.7529
+    },
+    {
+      "id": "house_32",
+      "heightM": 5.6,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 153.1029
+    },
+    {
+      "id": "house_33",
+      "heightM": 3.124,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 82.7712
+    },
+    {
+      "id": "house_34",
+      "heightM": 6.258,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 100.6144
+    },
+    {
+      "id": "house_35",
+      "heightM": 6.853,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 156.0896
+    },
+    {
+      "id": "house_36",
+      "heightM": 5.7,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 164.0183
+    },
+    {
+      "id": "house_37",
+      "heightM": 4.5,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 75.0376
+    },
+    {
+      "id": "house_38",
+      "heightM": 5.13,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 166.9658
+    },
+    {
+      "id": "house_39",
+      "heightM": 4.995,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 77.179
+    },
+    {
+      "id": "house_40",
+      "heightM": 5.2,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 329.1751
+    },
+    {
+      "id": "house_41",
+      "heightM": 7.02,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 181.0789
+    },
+    {
+      "id": "house_42",
+      "heightM": 4.59,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 67.2735
+    },
+    {
+      "id": "house_43",
+      "heightM": 5.94,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 145.5006
+    },
+    {
+      "id": "house_44",
+      "heightM": 8.1,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 207.5605
+    },
+    {
+      "id": "house_45",
+      "heightM": 7.425,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 146.6173
+    },
+    {
+      "id": "house_46",
+      "heightM": 6.21,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 123.7471
+    },
+    {
+      "id": "house_47",
+      "heightM": 7.695,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 104.3131
+    },
+    {
+      "id": "house_48",
+      "heightM": 6.48,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 84.5848
+    },
+    {
+      "id": "house_49",
+      "heightM": 6.345,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 165.5111
+    },
+    {
+      "id": "house_50",
+      "heightM": 6.345,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 68.6566
+    },
+    {
+      "id": "house_51",
+      "heightM": 6.21,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 69.0437
+    },
+    {
+      "id": "house_52",
+      "heightM": 5.7,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 165.0127
+    },
+    {
+      "id": "house_53",
+      "heightM": 7.56,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 155.4113
+    },
+    {
+      "id": "house_54",
+      "heightM": 7.695,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 166.4145
+    },
+    {
+      "id": "house_55",
+      "heightM": 7.425,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 116.137
+    },
+    {
+      "id": "house_56",
+      "heightM": 6.615,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 165.6203
+    },
+    {
+      "id": "house_57",
+      "heightM": 6.075,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 154.8322
+    },
+    {
+      "id": "house_58",
+      "heightM": 6.345,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 142.5343
+    },
+    {
+      "id": "house_59",
+      "heightM": 4.86,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 106.0075
+    },
+    {
+      "id": "house_60",
+      "heightM": 4.725,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 79.2163
+    },
+    {
+      "id": "house_61",
+      "heightM": 4.995,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 68.4341
+    },
+    {
+      "id": "house_62",
+      "heightM": 4.86,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 71.3439
+    },
+    {
+      "id": "house_63",
+      "heightM": 4.59,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 50.9601
+    },
+    {
+      "id": "house_64",
+      "heightM": 5.438,
+      "heightMethod": "estimated",
+      "views": 1,
+      "minRayAngleDeg": null,
+      "roofRmsPx": 0.0,
+      "areaM2": 81.7063
+    }
+  ],
+  "notes": [
+    "场景采用估算尺度，米制尺寸仅供参考。",
+    "尚无独立检查点，拟合误差只反映输入点的一致性。",
+    "部分建筑使用估算檐高，可补标墙脚或增加侧向视图。"
+  ],
+  "supplements": [
+    {
+      "source": "village-orbit-qma",
+      "reference": "village",
+      "provenance": "qwen-image-2.1",
+      "angle": 45,
+      "provider": "qma",
+      "status": "aligned",
+      "method": "feature-match",
+      "matches": 399,
+      "inliers": 143,
+      "rmsPx": 4.65,
+      "actualAngle": -5.6,
+      "coveragePercent": 23.73,
+      "message": "实测机位与请求方向有偏差，请对照叠加图后决定是否按实测机位采用。",
+      "orbitDeltaDeg": 5.5,
+      "targetMismatch": true,
+      "detailPercent": 99.76,
+      "newlyVisibleFaces": 19,
+      "newlyVisiblePixels": 15178,
+      "camera": {
+        "position": [
+          -6.73682426694616,
+          36.95586927153396,
+          90.2242427699127
+        ],
+        "target": [
+          15.61220881262753,
+          -20.262211697592356,
+          -34.00510411414548
+        ],
+        "up": [
+          0.26382022396737054,
+          0.893268803767321,
+          -0.36396391804944866
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 49.16968871539078
+      }
+    },
+    {
+      "source": "village-orbit-left",
+      "reference": "village",
+      "provenance": "qwen-image-2.1",
+      "angle": -34,
+      "provider": "comfyui",
+      "status": "aligned",
+      "method": "feature-match",
+      "matches": 226,
+      "inliers": 69,
+      "rmsPx": 4.88,
+      "actualAngle": -36.0,
+      "coveragePercent": 23.99,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "detailPercent": 95.44,
+      "camera": {
+        "position": [
+          -62.2718817705281,
+          33.56433794147068,
+          50.202803122434695
+        ],
+        "target": [
+          -0.36264766165806606,
+          -9.141986230246793,
+          -38.7491073039422
+        ],
+        "up": [
+          0.2179757434423135,
+          0.9303196659495404,
+          -0.2949438835071957
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-right",
+      "reference": "village",
+      "provenance": "qwen-image-2.1",
+      "angle": 38,
+      "provider": "comfyui",
+      "status": "aligned",
+      "method": "feature-match",
+      "matches": 829,
+      "inliers": 510,
+      "rmsPx": 4.06,
+      "actualAngle": 37.9,
+      "coveragePercent": 30.94,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "detailPercent": 91.38,
+      "camera": {
+        "position": [
+          92.83820167939632,
+          40.523848191975986,
+          63.14931013287739
+        ],
+        "target": [
+          12.296059695260652,
+          -15.898486293249043,
+          -45.957207561590565
+        ],
+        "up": [
+          -0.2282435495444627,
+          0.9232790263412172,
+          -0.3089671853284073
+        ],
+        "size": [
+          1088,
+          736
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.934136015168546,
+        "fov": 40.20653073675715
+      }
+    },
+    {
+      "source": "village-orbit-image-left110",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": -110,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 20,
+      "inliers": 15,
+      "rmsPx": 6.59,
+      "actualAngle": -110.0,
+      "coveragePercent": 21.83,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 105.7,
+      "targetMismatch": false,
+      "checkPoints": 7,
+      "checkInliers": 5,
+      "checkMedianPx": 7.84,
+      "checkMaxPx": 13.69,
+      "localSupportPercent": 31.26,
+      "detailPercent": 98.5,
+      "newlyVisibleFaces": 53,
+      "newlyVisiblePixels": 62522,
+      "camera": {
+        "position": [
+          -130.76619536988105,
+          37.63744280430975,
+          -84.42931629309129
+        ],
+        "target": [
+          -11.28792619862486,
+          -21.68689072494493,
+          -42.88390207843352
+        ],
+        "up": [
+          0.3801046227821799,
+          0.9036650512896262,
+          0.19725605394343174
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-image-right130",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": 130,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 21,
+      "inliers": 14,
+      "rmsPx": 6.85,
+      "actualAngle": 129.7,
+      "coveragePercent": 5.47,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 121.8,
+      "targetMismatch": false,
+      "checkPoints": 6,
+      "checkInliers": 5,
+      "checkMedianPx": 7.21,
+      "checkMaxPx": 73.3,
+      "localSupportPercent": 17.23,
+      "detailPercent": 99.74,
+      "newlyVisibleFaces": 35,
+      "newlyVisiblePixels": 49455,
+      "camera": {
+        "position": [
+          103.19007228772865,
+          48.21703767870854,
+          -140.44899075957701
+        ],
+        "target": [
+          6.913385724706998,
+          -19.920597100456924,
+          -51.88334576180594
+        ],
+        "up": [
+          -0.3746573100754731,
+          0.8857085157874636,
+          0.2741392439410657
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-image-left150",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": -150,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 28,
+      "inliers": 23,
+      "rmsPx": 5.97,
+      "actualAngle": -150.3,
+      "coveragePercent": 36.61,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 140.3,
+      "targetMismatch": false,
+      "checkPoints": 19,
+      "checkInliers": 11,
+      "checkMedianPx": 11.65,
+      "checkMaxPx": 42.31,
+      "localSupportPercent": 43.78,
+      "detailPercent": 99.19,
+      "newlyVisibleFaces": 75,
+      "newlyVisiblePixels": 101425,
+      "camera": {
+        "position": [
+          -72.47230154020349,
+          36.7018047459475,
+          -156.37173288503115
+        ],
+        "target": [
+          -4.65312117942392,
+          -16.975826058006376,
+          -50.98793075142959
+        ],
+        "up": [
+          0.1537700681730764,
+          0.9169791013980482,
+          0.368108806921643
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-step-right145",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": 145.0,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 14,
+      "inliers": 12,
+      "rmsPx": 4.55,
+      "actualAngle": 140.1,
+      "coveragePercent": 28.03,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 131.8,
+      "targetMismatch": false,
+      "checkPoints": 7,
+      "checkInliers": 5,
+      "checkMedianPx": 8.56,
+      "checkMaxPx": 33.82,
+      "localSupportPercent": 25.99,
+      "detailPercent": 98.88,
+      "newlyVisibleFaces": 53,
+      "newlyVisiblePixels": 58483,
+      "camera": {
+        "position": [
+          75.35954340742308,
+          37.766194591131836,
+          -146.1550238179054
+        ],
+        "target": [
+          3.58991327240183,
+          -16.759054840279283,
+          -51.422902629710904
+        ],
+        "up": [
+          -0.2834312699630848,
+          0.9081869635118097,
+          0.30799862745524004
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-step-right157",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": 157.0,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 26,
+      "inliers": 19,
+      "rmsPx": 4.94,
+      "actualAngle": 146.1,
+      "coveragePercent": 20.02,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 136.4,
+      "targetMismatch": false,
+      "checkPoints": 12,
+      "checkInliers": 8,
+      "checkMedianPx": 11.45,
+      "checkMaxPx": 126.0,
+      "localSupportPercent": 23.56,
+      "detailPercent": 98.84,
+      "newlyVisibleFaces": 57,
+      "newlyVisiblePixels": 57055,
+      "camera": {
+        "position": [
+          55.31847967741874,
+          33.81486662428635,
+          -138.42064740797497
+        ],
+        "target": [
+          5.942119257933776,
+          -11.448713564186122,
+          -47.76229270276434
+        ],
+        "up": [
+          -0.2506564510010098,
+          0.9137625265547566,
+          0.3197020310161417
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-step-right162",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": 162.0,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 23,
+      "inliers": 22,
+      "rmsPx": 5.32,
+      "actualAngle": 162.7,
+      "coveragePercent": 16.84,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 148.5,
+      "targetMismatch": false,
+      "checkPoints": 11,
+      "checkInliers": 6,
+      "checkMedianPx": 9.45,
+      "checkMaxPx": 19.99,
+      "localSupportPercent": 28.07,
+      "detailPercent": 98.55,
+      "newlyVisibleFaces": 60,
+      "newlyVisiblePixels": 69846,
+      "camera": {
+        "position": [
+          28.750181253808403,
+          33.208365598893415,
+          -159.79070235152457
+        ],
+        "target": [
+          3.48722057961864,
+          -12.42569986949507,
+          -49.58222948834728
+        ],
+        "up": [
+          -0.17079901596203523,
+          0.9235752638860898,
+          0.3432731100510787
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-step-center165",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": 165.0,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 47,
+      "inliers": 43,
+      "rmsPx": 5.13,
+      "actualAngle": 164.3,
+      "coveragePercent": 17.22,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 148.5,
+      "targetMismatch": false,
+      "checkPoints": 17,
+      "checkInliers": 15,
+      "checkMedianPx": 4.16,
+      "checkMaxPx": 18.0,
+      "localSupportPercent": 35.2,
+      "detailPercent": 98.96,
+      "newlyVisibleFaces": 75,
+      "newlyVisiblePixels": 78831,
+      "camera": {
+        "position": [
+          26.967631373930402,
+          36.998977668989355,
+          -167.37775262139823
+        ],
+        "target": [
+          1.1652554247860465,
+          -14.851262630824145,
+          -51.45927334069843
+        ],
+        "up": [
+          -0.1516984266662116,
+          0.9144242028457886,
+          0.37525453307966855
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-step-left180",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": -180.0,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 47,
+      "inliers": 45,
+      "rmsPx": 4.69,
+      "actualAngle": -179.4,
+      "coveragePercent": 16.25,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 152.6,
+      "targetMismatch": false,
+      "checkPoints": 17,
+      "checkInliers": 14,
+      "checkMedianPx": 5.44,
+      "checkMaxPx": 19.17,
+      "localSupportPercent": 37.0,
+      "detailPercent": 99.56,
+      "newlyVisibleFaces": 73,
+      "newlyVisiblePixels": 98357,
+      "camera": {
+        "position": [
+          -8.711645092597589,
+          37.91774766802037,
+          -173.8693628718491
+        ],
+        "target": [
+          -6.998217375214792,
+          -15.081914984209448,
+          -51.50054059067318
+        ],
+        "up": [
+          -0.056013427853330494,
+          0.9159020634823287,
+          0.3974744092503717
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-step-left165",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": -165.0,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "registration": "measured",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 34,
+      "inliers": 34,
+      "rmsPx": 2.46,
+      "actualAngle": -163.9,
+      "coveragePercent": 14.18,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 148.3,
+      "targetMismatch": false,
+      "checkPoints": 15,
+      "checkInliers": 15,
+      "checkMedianPx": 5.34,
+      "checkMaxPx": 11.25,
+      "localSupportPercent": 35.9,
+      "detailPercent": 99.59,
+      "newlyVisibleFaces": 73,
+      "newlyVisiblePixels": 90070,
+      "camera": {
+        "position": [
+          -42.777363300201614,
+          37.9911735516304,
+          -166.56122425719184
+        ],
+        "target": [
+          -5.732820662060149,
+          -15.28730997089778,
+          -50.5702818498589
+        ],
+        "up": [
+          0.050523614462660515,
+          0.9135824538956221,
+          0.4035027438762739
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 40.20653073675716
+      }
+    },
+    {
+      "source": "village-orbit-image-right90",
+      "reference": "village",
+      "provenance": "image-api",
+      "angle": 90,
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "status": "aligned",
+      "method": "control-points",
+      "matches": 19,
+      "inliers": 14,
+      "rmsPx": 9.16,
+      "actualAngle": 89.7,
+      "coveragePercent": 18.28,
+      "message": "机位已对齐，可用于补充遮挡表面。",
+      "orbitDeltaDeg": 86.1,
+      "targetMismatch": false,
+      "checkPoints": 7,
+      "checkInliers": 4,
+      "checkMedianPx": 10.47,
+      "checkMaxPx": 45.57,
+      "localSupportPercent": 23.75,
+      "detailPercent": 98.04,
+      "newlyVisibleFaces": 36,
+      "newlyVisiblePixels": 55771,
+      "camera": {
+        "position": [
+          151.94957767392722,
+          48.2847798906342,
+          -51.836439538730296
+        ],
+        "target": [
+          6.9945481307563,
+          -15.775906304110848,
+          -46.331288473000015
+        ],
+        "up": [
+          -0.40515531227278084,
+          0.9134069044787192,
+          -0.03920458886086456
+        ],
+        "size": [
+          1248,
+          832
+        ],
+        "principal": [
+          0.5,
+          0.5
+        ],
+        "focalRatio": 0.94787330950926,
+        "fov": 32.64113029987475
+      }
+    }
+  ],
+  "orbitCoverage": {
+    "anglesDeg": {
+      "village": 0.0,
+      "village-orbit-qma": -5.6,
+      "village-orbit-left": -36.0,
+      "village-orbit-right": 37.9,
+      "village-orbit-image-left110": -110.0,
+      "village-orbit-image-right130": 129.7,
+      "village-orbit-image-left150": -150.3,
+      "village-orbit-step-right145": 140.1,
+      "village-orbit-step-right157": 146.1,
+      "village-orbit-step-right162": 162.7,
+      "village-orbit-step-center165": 164.3,
+      "village-orbit-step-left180": -179.4,
+      "village-orbit-step-left165": -163.9,
+      "village-orbit-image-right90": 89.7
+    },
+    "largestGapDeg": 74.0,
+    "gapStartDeg": -110.0,
+    "suggestedAnglesDeg": [
+      -73.0,
+      63.8
+    ]
+  },
+  "mesh": {
+    "photoFaces": 15,
+    "partialFaces": 83,
+    "inferredFaces": 314,
+    "surfaceDetail": {
+      "wallDonors": 21,
+      "inferredWalls": 239,
+      "reviewedFaces": 58,
+      "reviewedFacesByView": {
+        "village-orbit-image-right90": 43,
+        "village-orbit-image-right130": 15
+      },
+      "inferredRidges": 1,
+      "context": {
+        "village": {
+          "infillBuildings": 0,
+          "trees": 9,
+          "boundaryRuns": 0
+        },
+        "village-orbit-image-left110": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 0
+        },
+        "village-orbit-image-right130": {
+          "infillBuildings": 2,
+          "trees": 0,
+          "boundaryRuns": 8
+        },
+        "village-orbit-image-left150": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 7
+        },
+        "village-orbit-step-right145": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 0
+        },
+        "village-orbit-step-right157": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 0
+        },
+        "village-orbit-step-right162": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 0
+        },
+        "village-orbit-step-center165": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 0
+        },
+        "village-orbit-step-left180": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 0
+        },
+        "village-orbit-step-left165": {
+          "infillBuildings": 0,
+          "trees": 0,
+          "boundaryRuns": 0
+        },
+        "village-orbit-image-right90": {
+          "infillBuildings": 10,
+          "trees": 8,
+          "boundaryRuns": 38
+        }
+      },
+      "depthAnchorMedianPercent": {
+        "village": 4.94,
+        "village-orbit-qma": 9.56,
+        "village-orbit-left": 2.88,
+        "village-orbit-right": 3.35,
+        "village-orbit-image-left110": 2.41,
+        "village-orbit-image-right130": 0.99,
+        "village-orbit-image-left150": 1.85,
+        "village-orbit-step-right145": 1.14,
+        "village-orbit-step-right157": 1.57,
+        "village-orbit-step-right162": 3.44,
+        "village-orbit-step-center165": 4.14,
+        "village-orbit-step-left180": 1.3,
+        "village-orbit-step-left165": 2.55,
+        "village-orbit-image-right90": 2.35
+      },
+      "depthViews": {},
+      "globalSurface": {
+        "method": "world-height-fusion",
+        "primarySource": "village-orbit-image-right90",
+        "gridSpacingM": [
+          0.489,
+          0.489
+        ],
+        "coveragePercent": 100.0,
+        "byView": {
+          "village-orbit-image-right90": 10151,
+          "village": 525,
+          "village-orbit-left": 554,
+          "village-orbit-right": 583,
+          "village-orbit-image-left110": 1794,
+          "village-orbit-image-right130": 263,
+          "village-orbit-image-left150": 592,
+          "village-orbit-step-right145": 0,
+          "village-orbit-step-right157": 64,
+          "village-orbit-step-right162": 0,
+          "village-orbit-step-center165": 0,
+          "village-orbit-step-left180": 0,
+          "village-orbit-step-left165": 0
+        },
+        "triangles": 27264,
+        "contextTriangles": 11744,
+        "closedBuildingTriangles": 15520,
+        "inferredTriangles": 12738,
+        "photoGroundTexels": 157835,
+        "blendedTriangles": 6354,
+        "closedAnchorBuildings": 69,
+        "retainedBuildings": 28,
+        "reviewedRearWalls": 17,
+        "localWallsBySource": {
+          "village-material-image-rear165": 6,
+          "village-orbit-image-left150": 3,
+          "village-orbit-image-right170": 7,
+          "village-orbit-image-right130": 1
+        },
+        "localRoofsBySource": {
+          "village-orbit-image-left150": 3,
+          "village-orbit-image-right130": 1,
+          "village-orbit-image-right170": 2,
+          "village-orbit-step-right157": 2
+        },
+        "additionalTrees": 11
+      },
+      "localMaterialReferences": [
+        {
+          "source": "village-material-image-rear165",
+          "angle": 165,
+          "model": "gpt-image-2",
+          "walls": 6,
+          "roofs": 0,
+          "yardTexels": 0,
+          "checkMedianPx": 15.27
+        },
+        {
+          "source": "village-orbit-image-right170",
+          "angle": 170,
+          "model": "gpt-image-2",
+          "walls": 7,
+          "roofs": 2,
+          "yardTexels": 129,
+          "checkMedianPx": 15.43
+        }
+      ],
+      "landscape": {
+        "triangles": 36352,
+        "boundsXZ": [
+          [
+            -448.5064654150709,
+            -496.2353489843279
+          ],
+          [
+            433.1269488121337,
+            394.42076266027794
+          ]
+        ],
+        "reviewedPhotoFraction": 0.0952
+      },
+      "videoSurfaces": {
+        "buildings": 11,
+        "adjustedRoofHeights": 2,
+        "correctedFootprints": 4,
+        "joinedEaves": 1,
+        "roofTextures": 6,
+        "wallTextures": 10,
+        "skippedBuildings": 0,
+        "evidence": "de5a4135a715898a74f5f29f7a6a7d3316dc39147290bea7348d6eef2619b9e5",
+        "inspectionCamera": {
+          "position": [
+            -30.181394131966385,
+            32.43444204330444,
+            51.766554835935
+          ],
+          "target": [
+            1.0983576774597168,
+            3.582505702972412,
+            29.759685516357422
+          ],
+          "up": [
+            0,
+            1,
+            0
+          ],
+          "size": [
+            1200,
+            800
+          ],
+          "principal": [
+            0.5,
+            0.5
+          ],
+          "focalRatio": 1.0,
+          "fov": 38.0
+        }
+      },
+      "photoProjectors": {
+        "sources": [
+          "village",
+          "village-orbit-image-left110",
+          "village-orbit-image-right130",
+          "village-orbit-image-left150",
+          "village-orbit-step-right145",
+          "village-orbit-step-right157",
+          "village-orbit-step-right162",
+          "village-orbit-step-center165",
+          "village-orbit-step-left180",
+          "village-orbit-step-left165",
+          "village-orbit-image-right90"
+        ],
+        "depthSizes": {
+          "village": [
+            896,
+            597
+          ],
+          "village-orbit-image-left110": [
+            896,
+            597
+          ],
+          "village-orbit-image-right130": [
+            896,
+            597
+          ],
+          "village-orbit-image-left150": [
+            896,
+            597
+          ],
+          "village-orbit-step-right145": [
+            896,
+            597
+          ],
+          "village-orbit-step-right157": [
+            896,
+            597
+          ],
+          "village-orbit-step-right162": [
+            896,
+            597
+          ],
+          "village-orbit-step-center165": [
+            896,
+            597
+          ],
+          "village-orbit-step-left180": [
+            896,
+            597
+          ],
+          "village-orbit-step-left165": [
+            896,
+            597
+          ],
+          "village-orbit-image-right90": [
+            896,
+            597
+          ]
+        },
+        "partialRoofsUsingBase": {
+          "village-orbit-image-right130": 3,
+          "village-orbit-image-left150": 2,
+          "village-orbit-step-right145": 18,
+          "village-orbit-step-right157": 10,
+          "village-orbit-step-right162": 4,
+          "village-orbit-step-center165": 26,
+          "village-orbit-step-left180": 26,
+          "village-orbit-step-left165": 36
+        },
+        "pairedAreaPercent": {
+          "village-orbit-step-right145": 3.24,
+          "village-orbit-step-right157": 2.13,
+          "village-orbit-step-right162": 3.07,
+          "village-orbit-step-center165": 4.97,
+          "village-orbit-step-left180": 5.65,
+          "village-orbit-step-left165": 9.93
+        }
+      }
+    },
+    "ground": {
+      "method": "local",
+      "surface": "fields",
+      "size": [
+        1482,
+        1536
+      ],
+      "boundsXZ": [
+        [
+          -130.41499697056886,
+          -178.14388053982583
+        ],
+        [
+          115.03548036763164,
+          76.32929421577586
+        ]
+      ],
+      "observed": 6134,
+      "occluded": 945252,
+      "outside": 851306,
+      "unresolved": 473660,
+      "visibleByView": {
+        "village": 12316
+      },
+      "donorPatches": 0,
+      "heightRangeM": [
+        -1.0602,
+        0.8686
+      ],
+      "groundTriangles": 24192,
+      "syntheticTexels": 124180,
+      "materialSwatches": {
+        "yard": 5,
+        "soil": 3,
+        "crops": 2,
+        "stubble": 2,
+        "weeds": 4
+      },
+      "localYardTexelsBySource": {
+        "village-orbit-image-right170": 129,
+        "village-orbit-image-left150": 2292,
+        "village-orbit-step-left180": 288
+      }
+    },
+    "supplements": {
+      "buildingFaces": 226,
+      "openingFrames": 0,
+      "byView": {
+        "village-orbit-qma": 184003,
+        "village-orbit-left": 248814,
+        "village-orbit-right": 198802,
+        "village-orbit-image-left110": 447218,
+        "village-orbit-image-right130": 155437,
+        "village-orbit-image-left150": 349249,
+        "village-orbit-step-right145": 2240,
+        "village-orbit-step-right157": 61,
+        "village-orbit-step-right162": 0,
+        "village-orbit-step-center165": 68177,
+        "village-orbit-step-left180": 29494,
+        "village-orbit-step-left165": 155387,
+        "village-orbit-image-right90": 22649
+      }
+    }
+  }
+}

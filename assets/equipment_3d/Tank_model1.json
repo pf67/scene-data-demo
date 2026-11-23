@@ -1,0 +1,18 @@
+{
+  "code": "Tank_model1",
+  "label": "坦克model1",
+  "category": "坦克",
+  "dimensions": {
+    "length": 7.0,
+    "width": 3.5,
+    "height": 2.4
+  },
+  "origin": [
+    0,
+    0,
+    0
+  ],
+  "up_axis": "y",
+  "yaw_offset": 0,
+  "default_scale": 1.0
+}

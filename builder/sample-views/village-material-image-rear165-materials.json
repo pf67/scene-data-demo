@@ -1,0 +1,28 @@
+{
+  "source":"village-material-image-rear165",
+  "sha256":"01b397a32f85e5de64dfce90a9a3200a65ebacca04003da24ff73a475e257124",
+  "reference":"village",
+  "provider":"openai",
+  "model":"gpt-image-2",
+  "requestedAngle":165,
+  "rawSize":[1248,832],
+  "size":[1000,667],
+  "use":"face-material-only",
+  "annotation":"Individual material regions in the raw generated photo, ordered upper left, upper right, lower right, lower left. Edge is the zero-based first roof vertex of the wall in the source building outline.",
+  "registration":{"accepted":false,"checkPoints":8,"checkInliers":3,"checkMedianPx":15.27,"tolerancePx":12.0,"derivedWarpAccepted":false,"derivedCheckInliers":1,"derivedCheckMedianPx":21.84,"derivedMaxDisplacementPx":42.57,"derivedMinJacobian":0.4172},
+  "walls":[
+    {"building":"house_52","edge":1,"quad":[[365,478],[499,553],[500,603],[376,538]]},
+    {"building":"house_52","edge":0,"quad":[[510,552],[571,478],[571,518],[510,578]]},
+    {"building":"house_58","edge":1,"quad":[[755,428],[938,489],[919,566],[748,508]]},
+    {"building":"house_49","edge":1,"quad":[[335,274],[412,297],[412,337],[340,320]]},
+    {"building":"house_49","edge":0,"quad":[[418,297],[447,279],[445,314],[419,335]]},
+    {"building":"house_47","edge":1,"quad":[[552,230],[616,241],[616,263],[552,254]]},
+    {"building":"house_34","edge":1,"quad":[[25,277],[50,288],[54,319],[31,306]]},
+    {"building":"house_53","edge":1,"quad":[[173,476],[266,533],[268,587],[178,534]]},
+    {"building":"house_53","edge":0,"quad":[[277,532],[330,482],[330,508],[278,555]]},
+    {"building":"house_32","edge":1,"quad":[[151,225],[194,242],[195,272],[154,252]]},
+    {"building":"house_29","edge":1,"quad":[[613,138],[733,150],[732,170],[613,157]]},
+    {"building":"house_59","edge":1,"quad":[[637,357],[714,374],[710,400],[637,388]]},
+    {"building":"house_56","edge":1,"quad":[[798,351],[974,386],[971,409],[801,379]]}
+  ]
+}

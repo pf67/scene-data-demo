@@ -1,0 +1,25 @@
+:root {
+  color-scheme: dark;
+  --ink: #121512; --ink-raised: #191d19; --ink-soft: #232823;
+  --paper: #f2efe6; --paper-muted: #d8d5cb; --paper-dim: #a5a79e;
+  --line: rgba(242,239,230,.14); --line-strong: rgba(242,239,230,.24);
+  --signal: #c9ff57; --signal-ink: #18220d; --ember: #ff7657;
+  --amber: #f3bf4f; --success: #8de2a3; --danger: #ff7657; --warning: #f3bf4f;
+  --text: var(--paper); --text-primary: var(--paper); --text-secondary: var(--paper-muted); --text-muted: var(--paper-dim);
+  --surface: var(--ink-raised); --surface-muted: var(--ink-soft); --border: var(--line); --border-soft: var(--line);
+  --radius-sm: 6px; --radius-md: 10px; --radius-lg: 16px; --radius-xl: 22px; --radius-2xl: 28px;
+  --shadow-floating: 0 28px 80px rgba(0,0,0,.42);
+  font-family: "Microsoft YaHei UI", "PingFang SC", "Noto Sans CJK SC", system-ui, sans-serif;
+  font-synthesis: none;
+}
+* { box-sizing: border-box; }
+html,body,#app { margin: 0; min-width: 320px; min-height: 100%; }
+body { background: var(--ink); color: var(--paper); }
+button,input,textarea,select { font: inherit; }
+button { color: inherit; }
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible { outline: 2px solid var(--signal); outline-offset: 3px; }
+button:disabled { cursor: not-allowed; }
+.display-font { font-family: inherit; }
+.mono { font-family: Consolas, "SFMono-Regular", monospace; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { border: 2px solid transparent; border-radius: 99px; background: rgba(242,239,230,.2); background-clip: padding-box; }

@@ -1,0 +1,23 @@
+{
+  "code": "VILLAGE_COMPLETE",
+  "label": "村庄 · 完整建筑与背面",
+  "kind": "photo_completed_village",
+  "map_id": "VILLAGE_CN",
+  "building_count": 64,
+  "preserve_scale": true,
+  "source_image": "village_road_near.png",
+  "camera": {
+    "position": [
+      6.310463837420346,
+      37.572966589247294,
+      87.83619207893528
+    ],
+    "target": [
+      4.129401422553165,
+      0.0,
+      1.5922100295460098
+    ],
+    "fov": 40.20652770996094
+  },
+  "notes": "原图屋顶轮廓 + 推断高度 + Blender 闭合建筑与背面材质；非实测建筑背面。"
+}

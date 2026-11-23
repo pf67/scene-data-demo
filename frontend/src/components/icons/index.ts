@@ -1,0 +1,6 @@
+export { default as X } from './X.vue'
+export { default as Plus } from './Plus.vue'
+export { default as Download } from './Download.vue'
+export { default as Star } from './Star.vue'
+export { default as Save } from './Save.vue'
+export { default as Sparkles } from './Sparkles.vue'

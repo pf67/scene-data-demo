@@ -1,0 +1,9 @@
+{
+  "label": "村庄沿街建筑 · 标定示例",
+  "kind": "calibrated_building_scene",
+  "source_url": "/api/builder/sources/village/image",
+  "plan_url": "/api/builder/example",
+  "report_url": "/api/builder/example-report",
+  "ground_url": "/api/builder/scenes/VILLAGE_CALIBRATED/ground",
+  "splat_file": "VILLAGE_CALIBRATED.ply"
+}

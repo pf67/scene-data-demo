@@ -1,0 +1,200 @@
+{
+  "version": "1.7.0",
+  "baseline": "1.6.2",
+  "sourceFiles": 5,
+  "uniqueVideos": 4,
+  "shots": [
+    {
+      "clip": "0d53685a374c",
+      "sampled": 20,
+      "solved": 20,
+      "fps": 24.0,
+      "sparsePoints": 8452
+    },
+    {
+      "clip": "1f811bf1f5fb",
+      "sampled": 37,
+      "solved": 37,
+      "fps": 24.0,
+      "sparsePoints": 9785
+    },
+    {
+      "clip": "b09010f223f4",
+      "sampled": 20,
+      "solved": 20,
+      "fps": 24.0,
+      "sparsePoints": 6968
+    },
+    {
+      "clip": "b2fc4716ea7e",
+      "sampled": 37,
+      "solved": 37,
+      "fps": 24.0,
+      "sparsePoints": 9089
+    }
+  ],
+  "surfaces": {
+    "buildings": 11,
+    "adjustedRoofHeights": 2,
+    "correctedFootprints": 4,
+    "joinedEaves": 1,
+    "roofTextures": 6,
+    "wallTextures": 10,
+    "skippedBuildings": 0,
+    "evidence": "de5a4135a715898a74f5f29f7a6a7d3316dc39147290bea7348d6eef2619b9e5"
+  },
+  "meshBuildings": 97,
+  "eaves": {
+    "house_04": {
+      "heldOutClips": [
+        "1f811bf1f5fb",
+        "b09010f223f4"
+      ],
+      "corners": 8,
+      "previousPx": 21.636,
+      "correctedPx": 1.898,
+      "referenceCorners": [
+        [
+          541.0,
+          610.0
+        ],
+        [
+          630.0,
+          575.0
+        ],
+        [
+          751.0,
+          635.0
+        ],
+        [
+          656.0,
+          683.0
+        ]
+      ]
+    },
+    "house_10": {
+      "heldOutClips": [
+        "0d53685a374c",
+        "1f811bf1f5fb",
+        "b09010f223f4"
+      ],
+      "corners": 12,
+      "previousPx": 20.882,
+      "correctedPx": 2.222,
+      "referenceCorners": [
+        [
+          1094.0,
+          655.0
+        ],
+        [
+          1185.0,
+          600.0
+        ],
+        [
+          1391.0,
+          680.0
+        ],
+        [
+          1309.0,
+          753.0
+        ]
+      ]
+    },
+    "house_03": {
+      "heldOutClips": [
+        "0d53685a374c",
+        "1f811bf1f5fb",
+        "b09010f223f4"
+      ],
+      "corners": 12,
+      "previousPx": 15.794,
+      "correctedPx": 2.259,
+      "referenceCorners": [
+        [
+          656.0,
+          683.0
+        ],
+        [
+          751.0,
+          635.0
+        ],
+        [
+          891.0,
+          710.0
+        ],
+        [
+          791.0,
+          768.0
+        ]
+      ]
+    },
+    "house_08": {
+      "heldOutClips": [
+        "0d53685a374c",
+        "1f811bf1f5fb",
+        "b09010f223f4"
+      ],
+      "corners": 12,
+      "previousPx": 25.991,
+      "correctedPx": 1.983,
+      "referenceCorners": [
+        [
+          874.0,
+          569.0
+        ],
+        [
+          954.0,
+          529.0
+        ],
+        [
+          1140.0,
+          605.0
+        ],
+        [
+          1061.0,
+          656.0
+        ]
+      ]
+    }
+  },
+  "joint": {
+    "buildings": [
+      "house_03",
+      "house_04"
+    ],
+    "estimatedHeightM": 4.885,
+    "beforeGapM": [
+      7.059,
+      5.952
+    ],
+    "afterGapM": [
+      4.76837158203125e-07,
+      4.76837158203125e-07
+    ]
+  },
+  "rearGround": {
+    "patchesTested": 4,
+    "newAccepted": 0,
+    "previousAcceptedAreaM2": 7.94
+  },
+  "verification": {
+    "movieCameraPoses": 73,
+    "encodedFrames": 109,
+    "fps": 12,
+    "realWebGLStills": 39,
+    "maxRenderMatrixDifference": 0.0,
+    "loopDifferentPixels": 0,
+    "startingViewSSIM": {
+      "orbit-000": [
+        0.8139,
+        0.8142
+      ],
+      "start-right": [
+        0.84,
+        0.84
+      ]
+    },
+    "constantGeometry": true,
+    "glbSha256": "77775baeb68b94c598c17a95703d8ef5e46ab40bc7f7952ae50373aa47f4198c"
+  }
+}

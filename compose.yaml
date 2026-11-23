@@ -1,0 +1,26 @@
+services:
+  scene-demo:
+    build: .
+    image: scene-data-demo:1.6.1
+    ports:
+      - "8090:8090"
+    environment:
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-${key:-}}
+      ORBIT_IMAGE_BASE_URL: ${ORBIT_IMAGE_BASE_URL:-}
+      ORBIT_IMAGE_API_KEY: ${ORBIT_IMAGE_API_KEY:-}
+      ORBIT_IMAGE_MODELS: ${ORBIT_IMAGE_MODELS:-}
+      ORBIT_IMAGE_SIZE: ${ORBIT_IMAGE_SIZE:-}
+      ORBIT_IMAGE_STREAM: ${ORBIT_IMAGE_STREAM:-}
+      ORBIT_DEFAULT_PROVIDER: ${ORBIT_DEFAULT_PROVIDER:-}
+      COMFYUI_URL: ${COMFYUI_URL:-}
+      QMA_API_URL: ${QMA_API_URL:-}
+      SCENE_PLANNER_URL: ${SCENE_PLANNER_URL:-}
+      SCENE_PLANNER_MODEL: ${SCENE_PLANNER_MODEL:-}
+      SCENE_PLANNER_KEY: ${SCENE_PLANNER_KEY:-}
+      SCENE_SURFACE_DEPTH_DIR: ${SCENE_SURFACE_DEPTH_DIR:-/data/surface-depth}
+      SCENE_SURFACE_MARKS_DIR: ${SCENE_SURFACE_MARKS_DIR:-/data/surface-marks}
+    volumes:
+      - scene-data:/data
+    restart: unless-stopped
+volumes:
+  scene-data:
